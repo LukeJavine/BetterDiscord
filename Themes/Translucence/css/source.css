@@ -18,8 +18,8 @@
   --alert-opacity: 1;
   --alert-action-color: #fff;
   --alert-text-color: #fff;
-  --message-color: rgba(0, 68, 255, 1);
-  --message-color-hover: rgba(0,0,0,0.2);
+  --message-color: rgba(0, 0, 0, .05);
+  --message-color-hover: rgba(0,0,0,0.1);
   --message-radius: var(--app-radius);
   --message-padding-top: 8px;
   --message-padding-side: 8px;
